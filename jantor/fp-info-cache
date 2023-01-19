@@ -1,4 +1,4 @@
-21660301525853154
+21667026776191112
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90843,8 +90843,8 @@ Blackpill-flippy-B
 
 
 0
-0
-0
+80
+40
 sat1l
 Conn_01x04_Male_A
 
@@ -90903,6 +90903,13 @@ M2-Plate-Hole
 0
 sat1l
 MXOnly-1.5U-Cutout-19mm
+
+
+0
+0
+0
+sat1l
+MXOnly-1.5U-Cutout-LaserMargin-19mm
 
 
 0
@@ -91028,6 +91035,13 @@ MXOnly-1U-Cutout-19mm
 0
 0
 sat1l
+MXOnly-1U-Cutout-LaserMargin-19mm
+
+
+0
+0
+0
+sat1l
 MXOnly-1U-Hotswap-Optional-19mm
 
 
@@ -91056,6 +91070,13 @@ MXOnly-1U-topor-NoLed-19mm
 2
 2
 sat1l
+MXOnly-2.25U-Cutout-ReversedStabilizers-NoLed-Lasermargin-19mm
+
+
+0
+0
+0
+sat1l
 MXOnly-2.25U-Hotswap-Optional-ReversedStabilizers-19mm
 
 
@@ -91083,6 +91104,13 @@ MXOnly-2.25U-topor-NoLed-19mm
 0
 2
 2
+sat1l
+MXOnly-2.75U-Cutout-ReversedStabilizers-NoLed-Lasermargin-19mm
+
+
+0
+0
+0
 sat1l
 MXOnly-2.75U-Hotswap-Optional-ReversedStabilizers-19mm
 

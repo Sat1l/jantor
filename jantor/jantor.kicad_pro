@@ -380,7 +380,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "jantor.step",
+      "step": "../jantor 3ds/jantor pcb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
